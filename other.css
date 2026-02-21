@@ -170,16 +170,16 @@ display: none
 .profile-image {
     width: 100%;
     aspect-ratio: 1;
-    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    background: linear-gradient(135deg, #FCEFE4 0%, #F8D8BB 100%);
     border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #8b6f6f;
+    color: #8B796F;
     font-family:font;
     font-size: 18px;
     font-weight: bold;
-    border: 2px solid #d4a5a5;
+    border: 2px solid #D4B7A5;
 }
 
 .info-box {
