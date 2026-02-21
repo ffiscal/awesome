@@ -217,20 +217,20 @@ display: none
     font-size: 13px;
     font-family:font;
     margin-bottom: 10px;
-    border: 2px solid #d4a5a5;
+    border: 2px solid #F8CEBB;
 }
 
 .box-content {
     font-size: 14px;
     font-family:font;
-    color: #6d4c41;
+    color: #D4BAA5;
     line-height: 1.6;
 }
 .footer {
-    background: #f3e5e8;
+    background: #6D5341;
     padding: 16px 24px;
     text-align: center;
-    border-top: 2px solid #d4a5a5;
+    border-top: 2px solid #F3ECE5;
 }
 
 .footer-links {
