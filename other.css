@@ -295,3 +295,7 @@ font-family:font;
 color: #6D5141 !important;
 border: transparent !important;
 border-radius: 8px !important;
+}
+nav img.avatar {
+content: url(https://file.garden/Zm9HtlI3DQ0cqj58/Tumblr_l_150901102562874.gif);
+}
