@@ -13,7 +13,17 @@ body {
     align-items: center;
     padding: 20px;
 }
-
+.card, .content-container {
+background-color: transparent !important;
+margin-right: auto !important;
+margin-left: auto !important;
+position: relative;
+justify-content: center;
+text-align: justify;
+}
+.flex .flex-col {
+display: none;
+}
 .browser-window {
     width: 100%;
     max-width: 900px;
