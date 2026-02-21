@@ -273,8 +273,8 @@ display: none
     50% { opacity: 0.6; transform: scale(1.2); }
 }
 .open, .inner, .button, .item {
-color: #FFF9F5 !important;
-background: #8B7B6F !important;
+color: #6D5141 !important;
+background: #493A33 !important;
 opacity: 90% !important;
 }
 @font-face {
