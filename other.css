@@ -219,7 +219,6 @@ display: none
     margin-bottom: 10px;
     border: 2px solid #D4BAA5;
 }
-
 .box-content {
     font-size: 14px;
     font-family:font;
@@ -232,7 +231,6 @@ display: none
     text-align: center;
     border-top: 2px solid #F3ECE5;
 }
-
 .footer-links {
     display: flex;
     justify-content: center;
@@ -240,7 +238,6 @@ display: none
     font-family:font;
     font-size: 15px;
 }
-
 .footer-link {
     color: #8B7B6F;
     font-family:font;
@@ -248,11 +245,9 @@ display: none
     cursor: pointer;
     transition: color 0.3s;
 }
-
 .footer-link:hover {
     color: #6D5241;
 }
-
 .footer-separator {
     color: #C9AC92;
 }
@@ -260,7 +255,6 @@ display: none
     .content-grid {
         grid-template-columns: 1fr;
     }
-
     .browser-tab {
         font-size: 11px;
         font-family:font;
@@ -285,10 +279,10 @@ opacity: 90% !important;
 }
 @font-face {
     src: url(https://file.garden/Z9M35oTzwUunBKQE/CossetteTitre-Regular.ttf);
-    font-family: font;
+   font-family: font;
 }
 a{
-color: white;
+color: #6D5141;
 font-family:font;
     }
 p, {
@@ -296,7 +290,7 @@ font-family:font;
 color: #6D5141  !important;
 }
 .button, .button:hover{
-    background: #6D5141 !important;
+    background: transparent !important;
 font-family:font;
 color: #6D5141 !important;
 border: transparent !important;
