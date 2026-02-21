@@ -270,3 +270,8 @@ display: none;
     0%, 100% { opacity: 1; transform: scale(1); }
     50% { opacity: 0.6; transform: scale(1.2); }
 }
+.open, .inner, .button, .item {
+color: #fff5f8 !important;
+background: #f8bbd0 !important;
+opacity: 90% !important;
+}
