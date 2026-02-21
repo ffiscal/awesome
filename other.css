@@ -242,7 +242,7 @@ display: none
 }
 
 .footer-link {
-    color: #8b6f6f;
+    color: #8B7B6F;
     font-family:font;
     text-decoration: underline;
     cursor: pointer;
@@ -250,11 +250,11 @@ display: none
 }
 
 .footer-link:hover {
-    color: #6d4c41;
+    color: #6D5241;
 }
 
 .footer-separator {
-    color: #c99292;
+    color: #C9AC92;
 }
 @media (max-width: 768px) {
     .content-grid {
@@ -269,7 +269,7 @@ display: none
 }
 .sparkle {
     display: inline-block;
-    color: #f8bbd0;
+    color: #FFF9F5;
     font-size: 18px;
     animation: sparkle 2s infinite;
 }
@@ -279,8 +279,8 @@ display: none
     50% { opacity: 0.6; transform: scale(1.2); }
 }
 .open, .inner, .button, .item {
-color: #fff5f8 !important;
-background: #f8bbd0 !important;
+color: #FFF9F5 !important;
+background: #8B7B6F !important;
 opacity: 90% !important;
 }
 @font-face {
