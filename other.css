@@ -131,21 +131,21 @@ display: none
 }
 
 .url-icon {
-    color: #8b6f6f;
+    color: #8B7D6F;
     font-size: 16px;
 }
 .last-updated {
-    background: #fce4ec;
+    background: #FCEEE4;
     padding: 12px 20px;
     text-align: center;
     font-family:font;
     font-size: 14px;
-    color: #6d4c41;
-    border-bottom: 2px solid #d4a5a5;
+    color: #6D5641;
+    border-bottom: 2px solid #D4BBA5;
 }
 .content-wrapper {
     padding: 24px;
-    background: #fff5f8;
+    background: #FFF8F5;
 }
 
 .content-grid {
