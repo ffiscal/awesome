@@ -287,3 +287,17 @@ opacity: 90% !important;
     src: url(https://file.garden/Z9M35oTzwUunBKQE/CossetteTitre-Regular.ttf);
     font-family: font;
 }
+a{
+color: white;
+font-family:font;
+    }
+p, {
+font-family:font;
+color: #6D5141  !important;
+}
+.button, .button:hover{
+    background: #6D5141 !important;
+font-family:font;
+color: #6D5141 !important;
+border: transparent !important;
+border-radius: 8px !important;
